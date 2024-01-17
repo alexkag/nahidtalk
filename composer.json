@@ -26,7 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Alexkag\\Talk\\": "src"
+      "Nahid\\Talk\\": "src"
     },
     "files": [
       "src/helpers/talk.php"
